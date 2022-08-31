@@ -1,6 +1,6 @@
 # projetPiiquante
 
-HotTakes
+<h2>HotTakes</h2>
 This project was generated with Angular CLI version 13.2.4.
 
 Development server
